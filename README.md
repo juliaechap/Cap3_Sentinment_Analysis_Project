@@ -2,7 +2,7 @@
 Capstone 3 Project - Sentiment Analysis using Twitter API 
 
 # I. Introduction
-##. A. Goal 
+## A. Goal 
 This project aims to determine any reason for negative sentiment that surrounds Uber as a company. Determining the source of any negative sentiment will allow us to propose practical solutions to help boost sentiment, allowing the public to view the company in a positive light and hopefully encourage market valuation to move forward.
 
 ## B. Background 
